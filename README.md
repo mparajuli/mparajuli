@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/mparajuli/mparajuli.svg)](http://hits.dwyl.com/mparajuli/mparajuli)
 
 <!--
 **mparajuli/mparajuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
