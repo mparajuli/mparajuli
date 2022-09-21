@@ -3,10 +3,10 @@
 
 Gist about me:
 
-- 🔭 I’m a teaching asistant for Java course at Jacksonville State University.
+- 🔭 I’m a Graduate Teaching/Research Asistant at Jacksonville State University.
 - 🤔 I’m looking for a CS internship to apply and enhance my technical and interpersonal skills to a real-world client relationship.
 - 👯 I am looking to collaborate on a software/web development project and develop technological competency with software/web development programs and services.  
-- 🌱 Currenly learning Z3 (SMT module) and game design.
+- 🌱 Currenly learning container technologies, frontend, and game design.
 - 📫 How to reach me: <a href="mailto:mausamparajuli313@gmail.com">Let's get in touch!</a>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My name rhymes with Awesome, so you can call me Awesome-Mausam!
