@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi there👋, I'm Mausam Parajuli</h1>
 <h2 align="center">A highly motivated and experienced graduate student in Computer Science</h2>
 <p>My goal is to apply my expertise in programming and software development to create exceptional applications, while continuously learning and growing as a software engineer. I aim to contribute to the success of the organization by leveraging my technical skills and knowledge, while gaining valuable hands-on experience in a professional setting.</p>
