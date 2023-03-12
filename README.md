@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **My name rhymes with Awesome, so you can call me Awesome-Mausam!**
 
 <h3>Leadership Roles:</h3>
-<p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbspPresident of the AlgoSolvers Club at Jacksonville State University</p>
+<p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspPresident of the AlgoSolvers Club at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspPresident of the International Student Organization</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspSecretary of Computer Science Club at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspOrientation Leader at Jacksonville State University</p>
