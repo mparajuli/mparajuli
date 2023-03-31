@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparajuli&label=Profile%20views&color=0e75b6&style=flat" alt="mparajuli" /> </p>
 
-- 🔭 Read my research paper on [https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html](Performance Evaluation of the KVM Hypervisor Running on ARM-Based Single-Board Computers)
+- 🔭 Read my research paper on [https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html](https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html)
 
 - 🌱 I’m currently learning **container technologies, machine learning, and web application development.**
 
 - 👯 I’m looking to collaborate on **a software/web development project and develop technological competency with software/web development programs and services.**
 
-- 👨‍💻 View my portfolio at [https://mparajuli.github.io/my-portfolio-react/](my-portfolio-react)
+- 👨‍💻 View my portfolio at [https://mparajuli.github.io/my-portfolio-react/](https://mparajuli.github.io/my-portfolio-react/)
 
 - 💬 Ask me about **data structures, algorithms, software engineering, java, and react.**
 
