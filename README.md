@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparajuli&label=Profile%20views&color=0e75b6&style=flat" alt="mparajuli" /> </p>
 
-- 🔭 Read my research paper on [https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html](https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html)
+<p><a href="https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html" target="_blank">Read Me</a></p>
+
+- 🔭 Read my research paper at [https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html](https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html)
 
 - 🌱 I’m currently learning **container technologies, machine learning, and web application development.**
 
