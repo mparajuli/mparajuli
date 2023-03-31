@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparajuli&label=Profile%20views&color=0e75b6&style=flat" alt="mparajuli" /> </p>
 
-- 🔭 Read my research paper on<p><a href="https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html" target="_blank" rel="noopener noreferrer">Performance Evaluation of the KVM Hypervisor Running on ARM-Based Single-Board Computers</a></p>
-
-- 🔭 Read my research paper at [https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html](https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html)
+- 🔭 Read my research paper on <a href="https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html" target="_blank">Performance Evaluation of the KVM Hypervisor Running on ARM-Based Single-Board Computers.</a>
 
 - 🌱 I’m currently learning **container technologies, machine learning, and web application development.**
 
