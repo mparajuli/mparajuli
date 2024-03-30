@@ -1,6 +1,6 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi there👋, I'm Mausam Parajuli</h1>
-<h2 align="center">A highly motivated and experienced graduate student in Computer Science</h2>
+<h2 align="center">An accomplished and experienced Software Engineer</h2>
 <p>My goal is to apply my expertise in programming and software development to create exceptional applications, while continuously learning and growing as a software engineer. I aim to contribute to the success of the organization by leveraging my technical skills and knowledge, while gaining valuable hands-on experience in a professional setting.</p>
 
 <img align="right" alt="Programming" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -17,7 +17,7 @@
 
 - 👨‍💻 View my portfolio at [https://mparajuli.github.io/my-portfolio-react/](https://mparajuli.github.io/my-portfolio-react/)
 
-- 💬 Ask me about **data structures, algorithms, software engineering, java, and react.**
+- 💬 Ask me about **data structures, algorithms, software engineering, java, spring, and react.**
 
 - 📫 How to reach me **mausamparajuli313@gmail.com**
 
@@ -26,7 +26,7 @@
 <h3>Leadership Roles:</h3>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspPresident of the AlgoSolvers Club at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspPresident of the International Student Organization</p>
-<p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspSecretary of Computer Science Club at Jacksonville State University</p>
+<p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspVice President of Computer Science Club at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspOrientation Leader at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspAmbassador at Jacksonville State University</p>
 <p>&nbsp&nbsp&nbsp&nbsp&bull;&nbsp&nbsp&nbsp&nbsp&nbspSenator at Jacksonville State University</p>
